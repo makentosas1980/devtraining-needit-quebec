@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="DELETE">
+        <caller_access/>
+        <description>This event is fired  for each employee with a special occasion</description>
+        <event_name>x_58872_needit.employeOccasions</event_name>
+        <fired_by>Scheduled Script Executin Find employees with special occasions</fired_by>
+        <queue/>
+        <suffix>employeOccasions</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-24 11:33:49</sys_created_on>
+        <sys_id>e7f705122f072010244d9bacf699b64d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.employeOccasions</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysevent_register_e7f705122f072010244d9bacf699b64d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-24 11:33:49</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sysevent_register>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>fa753262dba03300387021c4059619cf</instance_id>
+        <instance_name>dev78804</instance_name>
+        <name>sysevent_register_e7f705122f072010244d9bacf699b64d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="INSERT_OR_UPDATE">
+        <caller_access/>
+        <description>This event is fired  for each employee with a special occasion</description>
+        <event_name>x_58872_needit.employeOccasions</event_name>
+        <fired_by>Scheduled Script Executin Find employees with special occasions</fired_by>
+        <queue/>
+        <suffix>employeOccasions</suffix>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-24 11:33:49</sys_created_on>
+        <sys_id>e7f705122f072010244d9bacf699b64d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.employeOccasions</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysevent_register_e7f705122f072010244d9bacf699b64d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-24 11:33:49</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sysevent_register>
+</record_update>]]></payload>
+        <payload_hash>-1370796848</payload_hash>
+        <record_name>x_58872_needit.employeOccasions</record_name>
+        <reverted_from/>
+        <source>6f51372a2fdf2010244d9bacf699b609</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-07 04:44:28</sys_created_on>
+        <sys_id>23613b2a2fdf2010244d9bacf699b65a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>178aaa560120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-07 04:44:28</sys_updated_on>
+        <type>Event Registration</type>
+        <update_guid>af613b2a86df2010991032a13c07b959</update_guid>
+        <update_guid_history>af613b2a86df2010991032a13c07b959:0,f02c463097df6010e116450e0290222c:-812302340,a35b46fc189f6010306d10b9508ec627:0,8812ee7bad4320107d48c7b0b60f062e:-812302340,2fd88d92c20720107fc942f681701b5c:2093712136</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-08 04:16:14</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_register">sysevent_register</sys_db_object>
+        <sys_id>152853e24a0940f2832d29d507cebaa4</sys_id>
+        <sys_metadata>e7f705122f072010244d9bacf699b64d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.employeOccasions</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">9a08c27e2f032010244d9bacf699b6c4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sysevent_register_e7f705122f072010244d9bacf699b64d</sys_update_name>
+        <sys_update_version display_value="sysevent_register_e7f705122f072010244d9bacf699b64d">23613b2a2fdf2010244d9bacf699b65a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-08 04:16:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
